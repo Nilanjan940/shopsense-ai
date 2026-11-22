@@ -30,3 +30,5 @@ build/
 # OS
 Thumbs.db
 .DS_Store
+outputs/*.jsonl
+outputs/*.json
